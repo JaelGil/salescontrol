@@ -1,0 +1,11 @@
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.Entities\obj\Debug\net8.0\SalesControl.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.Entities\obj\Debug\net8.0\SalesControl.Entities.AssemblyInfoInputs.cache
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.Entities\obj\Debug\net8.0\SalesControl.Entities.AssemblyInfo.cs
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.Entities\obj\Debug\net8.0\SalesControl.Entities.csproj.CoreCompileInputs.cache
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.Entities\bin\Debug\net8.0\SalesControl.Entities.deps.json
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.Entities\bin\Debug\net8.0\SalesControl.Entities.dll
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.Entities\bin\Debug\net8.0\SalesControl.Entities.pdb
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.Entities\obj\Debug\net8.0\SalesControl.Entities.dll
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.Entities\obj\Debug\net8.0\refint\SalesControl.Entities.dll
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.Entities\obj\Debug\net8.0\SalesControl.Entities.pdb
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.Entities\obj\Debug\net8.0\ref\SalesControl.Entities.dll

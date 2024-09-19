@@ -1,0 +1,17 @@
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.UsesCases\obj\Debug\net8.0\SalesControl.CreateClientRegistry.UsesCases.csproj.AssemblyReference.cache
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.UsesCases\obj\Debug\net8.0\SalesControl.CreateClientRegistry.UsesCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.UsesCases\obj\Debug\net8.0\SalesControl.CreateClientRegistry.UsesCases.AssemblyInfoInputs.cache
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.UsesCases\obj\Debug\net8.0\SalesControl.CreateClientRegistry.UsesCases.AssemblyInfo.cs
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.UsesCases\obj\Debug\net8.0\SalesControl.CreateClientRegistry.UsesCases.csproj.CoreCompileInputs.cache
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.UsesCases\bin\Debug\net8.0\SalesControl.CreateClientRegistry.UsesCases.deps.json
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.UsesCases\bin\Debug\net8.0\SalesControl.CreateClientRegistry.UsesCases.dll
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.UsesCases\bin\Debug\net8.0\SalesControl.CreateClientRegistry.UsesCases.pdb
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.UsesCases\bin\Debug\net8.0\SalesControl.CreateClientRegistry.BusinessObject.dll
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.UsesCases\bin\Debug\net8.0\SalesControl.Entities.dll
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.UsesCases\bin\Debug\net8.0\SalesControl.CreateClientRegistry.BusinessObject.pdb
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.UsesCases\bin\Debug\net8.0\SalesControl.Entities.pdb
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.UsesCases\obj\Debug\net8.0\SalesCon.8DD6EC28.Up2Date
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.UsesCases\obj\Debug\net8.0\SalesControl.CreateClientRegistry.UsesCases.dll
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.UsesCases\obj\Debug\net8.0\refint\SalesControl.CreateClientRegistry.UsesCases.dll
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.UsesCases\obj\Debug\net8.0\SalesControl.CreateClientRegistry.UsesCases.pdb
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.UsesCases\obj\Debug\net8.0\ref\SalesControl.CreateClientRegistry.UsesCases.dll

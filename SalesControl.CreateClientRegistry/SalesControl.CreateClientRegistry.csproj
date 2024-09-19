@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.1" />
+    <PackageReference Include="Microsoft.Graph" Version="5.56.0" />
+    <PackageReference Include="Microsoft.SharePointOnline.CSOM" Version="16.1.25110.12000" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SalesControl.CreateClientRegistry.BusinessObject\SalesControl.CreateClientRegistry.BusinessObject.csproj" />
+    <ProjectReference Include="..\SalesControl.CreateClientRegistry.UsesCases\SalesControl.CreateClientRegistry.UsesCases.csproj" />
+    <ProjectReference Include="..\SalesControl.Entities\SalesControl.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

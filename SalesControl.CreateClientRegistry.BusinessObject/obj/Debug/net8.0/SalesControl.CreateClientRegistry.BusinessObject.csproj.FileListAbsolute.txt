@@ -1,0 +1,15 @@
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.BusinessObject\obj\Debug\net8.0\SalesControl.CreateClientRegistry.BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.BusinessObject\obj\Debug\net8.0\SalesControl.CreateClientRegistry.BusinessObject.AssemblyInfoInputs.cache
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.BusinessObject\obj\Debug\net8.0\SalesControl.CreateClientRegistry.BusinessObject.AssemblyInfo.cs
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.BusinessObject\obj\Debug\net8.0\SalesControl.CreateClientRegistry.BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.BusinessObject\bin\Debug\net8.0\SalesControl.CreateClientRegistry.BusinessObject.deps.json
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.BusinessObject\bin\Debug\net8.0\SalesControl.CreateClientRegistry.BusinessObject.dll
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.BusinessObject\bin\Debug\net8.0\SalesControl.CreateClientRegistry.BusinessObject.pdb
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.BusinessObject\bin\Debug\net8.0\SalesControl.Entities.dll
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.BusinessObject\bin\Debug\net8.0\SalesControl.Entities.pdb
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.BusinessObject\obj\Debug\net8.0\SalesControl.CreateClientRegistry.BusinessObject.csproj.AssemblyReference.cache
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.BusinessObject\obj\Debug\net8.0\SalesCon.0D18E42E.Up2Date
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.BusinessObject\obj\Debug\net8.0\SalesControl.CreateClientRegistry.BusinessObject.dll
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.BusinessObject\obj\Debug\net8.0\refint\SalesControl.CreateClientRegistry.BusinessObject.dll
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.BusinessObject\obj\Debug\net8.0\SalesControl.CreateClientRegistry.BusinessObject.pdb
+C:\Users\jaelg\OneDrive\Escritorio\programacion2\SalesControl\SalesControl.CreateClientRegistry.BusinessObject\obj\Debug\net8.0\ref\SalesControl.CreateClientRegistry.BusinessObject.dll

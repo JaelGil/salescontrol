@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SalesControl.CreateClientRegistry.BusinessObject/1.0.0": {
+        "dependencies": {
+          "SalesControl.Entities": "1.0.0"
+        },
+        "runtime": {
+          "SalesControl.CreateClientRegistry.BusinessObject.dll": {}
+        }
+      },
+      "SalesControl.Entities/1.0.0": {
+        "runtime": {
+          "SalesControl.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SalesControl.CreateClientRegistry.BusinessObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SalesControl.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9MpdvphWrms=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaelg\\OneDrive\\Escritorio\\programacion2\\SalesControl\\SalesControl.CreateClientRegistry.UsesCases\\SalesControl.CreateClientRegistry.UsesCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaelg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

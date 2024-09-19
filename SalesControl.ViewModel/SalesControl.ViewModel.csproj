@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <SupportedPlatform Include="browser" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="8.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SalesControl.CreateClientRegistry.BusinessObject\SalesControl.CreateClientRegistry.BusinessObject.csproj" />
+    <ProjectReference Include="..\SalesControl.CreateClientRegistry.UsesCases\SalesControl.CreateClientRegistry.UsesCases.csproj" />
+    <ProjectReference Include="..\SalesControl.CreateClientRegistry\SalesControl.CreateClientRegistry.csproj" />
+    <ProjectReference Include="..\SalesControl.DataContext.EntityFrameworkCore\SalesControl.DataContext.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\SalesControl.Entities\SalesControl.Entities.csproj" />
+    <ProjectReference Include="..\SalesControl.View\SalesControl.View.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+</Project>
