@@ -1,0 +1,191 @@
+@page "/RegistryClient"
+@namespace SalesControl.ViewModel.Component
+@using Microsoft.AspNetCore.Components.Forms
+@using Microsoft.AspNetCore.Routing
+@using Microsoft.Graph.Models.CallRecords
+@using SalesControl.ViewModel.Model
+
+<EditForm Model="model" OnValidSubmit="model.Save">
+    
+    <div class="container">
+
+        <h2>Registrar Cliente:</h2>
+
+        <div class="form-group">
+            <label for="DniClient">DNI:</label>
+            <InputText id="DniClient" @bind-Value="model.DniClient" />
+        </div>
+
+        <div class="form-group">
+            <label for="NameClient">Nombre:</label>
+            <InputText id="NameClient" @bind-Value="model.NameClient" />
+        </div>
+
+        <div class="form-group">
+            <label for="SurnameClient">Apellido:</label>
+            <InputText id="SurnameClient" @bind-Value="model.SurnameClient" />
+        </div>
+
+        <div class="form-group">
+            <label for="PhoneClient">Teléfono:</label>
+            <InputText id="PhoneClient" @bind-Value="model.PhoneClient" />
+        </div>
+
+        <div class="form-group">
+            <label for="EmailClient">Email:</label>
+            <InputText id="EmailClient" @bind-Value="model.EmailClient" />
+        </div>
+
+        <h2 class="small-title">Datos del domicilio:</h2>
+        <div class="form-group">
+            <div class="row">
+                <div class="col">
+                    <label for="Street">Calle:</label>
+                    <InputText id="Street" @bind-Value="model.Street" />
+                </div>
+                <div class="col">
+                    <label for="District">Distrito:</label>
+                    <InputText id="District" @bind-Value="model.District" />
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="row">
+                <div class="col">
+                    <label for="Departament">Departamento:</label>
+                    <InputText id="Departament" @bind-Value="model.Departament" />
+                </div>
+                <div class="col">
+                    <label for="Province">Provincia:</label>
+                    <InputText id="Province" @bind-Value="model.Province" />
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="row">
+                <div class="col">
+                    <label for="PostalCode">Código Postal:</label>
+                    <InputText id="PostalCode" @bind-Value="model.PostalCode" />
+                </div>
+            </div>
+        </div>
+        <button type="submit" class="btn-primary">Guardar</button>
+    </div>
+</EditForm>
+
+    <style>
+
+        body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: black; /* Fondo negro */
+            color: white; /* Color del texto blanco */
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            width: 100vh;
+            min-height: 100%;
+            display: flex;
+            flex-direction: column;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #111;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+           
+        }
+
+        h2 {
+            color: white;
+            font-size: 28px;
+            text-align: center;
+            margin-top: 0px;
+            margin-bottom: 30px;
+            text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.2);
+        }
+
+        .small-title {
+            color: white;
+            font-size: 20px;
+            margin-bottom: 15px;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+            font-size: 16px;
+            width: 100%;
+        }
+
+        .form-group input, .form-group select {
+            padding: 10px;
+            border: 2px solid blue;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        .form-group .half-width {
+            width: calc(50% - 10px);
+            margin-right: 10px;
+        }
+
+        .form-group .half-width:last-child {
+            margin-right: 0;
+        }
+
+        .btn-primary {
+            background-color: #007bff;
+            color: #fff;
+            border: 3px solid blue;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            display: block;
+            margin: 20px auto 0;
+        }
+
+        .btn-primary:hover {
+              background-color: #0056b3;
+         }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        .row {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .col {
+            flex: 1;
+            margin-right: 10px;
+        }
+
+        .col:last-child {
+            margin-right: 0;
+        }
+
+        input[type="text"] {
+            width: 100%;
+        }
+
+    </style>
+
+
+   

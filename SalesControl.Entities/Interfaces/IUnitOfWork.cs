@@ -11,3 +11,7 @@ namespace SalesControl.Entities.Interfaces
         Task SaveChanges();
     }
 }
+#region
+//Coordina los cambios realizados en los datos
+//asegura que se guarden en la base de datos como una unidad.
+#endregion

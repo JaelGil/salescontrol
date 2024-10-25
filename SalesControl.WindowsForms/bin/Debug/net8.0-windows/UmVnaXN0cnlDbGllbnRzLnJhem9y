@@ -1,0 +1,159 @@
+@page "/RegistryClient"
+@namespace SalesControl.ViewModel.Component
+@using Microsoft.AspNetCore.Components.Forms
+@using Microsoft.AspNetCore.Routing
+@using SalesControl.ViewModel.Model
+
+<h3>RegistryClient</h3>
+
+
+<EditForm Model="model" OnValidSubmit="model.Save">
+    
+    <div class="container">
+
+        <h2>Registrar Cliente</h2>
+
+        <div class="form-group">
+            <label for="DniClient">DNI:</label>
+            <InputText id="DniClient" @bind-Value="model.DniClient" />
+        </div>
+
+        <div class="form-group">
+            <label for="NameClient">Nombre:</label>
+            <InputText id="NameClient" @bind-Value="model.NameClient" />
+        </div>
+
+        <div class="form-group">
+            <label for="SurnameClient">Apellido:</label>
+            <InputText id="SurnameClient" @bind-Value="model.SurnameClient" />
+        </div>
+
+        <div class="form-group">
+            <label for="PhoneClient">Teléfono:</label>
+            <InputText id="PhoneClient" @bind-Value="model.PhoneClient" />
+        </div>
+
+        <div class="form-group">
+            <label for="EmailClient">Email:</label>
+            <InputText id="EmailClient" @bind-Value="model.EmailClient" />
+        </div>
+        <h2 class="small-title">Datos del domicilio:</h2>
+
+        <div class="form-group">
+            <label for="Street" class="half-width">Calle:</label>
+            <InputText id="Street" @bind-Value="model.Street" class="half-width" />
+            <label for="District" class="half-width">Distrito:</label>
+            <InputText id="District" @bind-Value="model.District" class="half-width" />
+        </div>
+
+        <div class="form-group">
+            <label for="Departament" class="half-width">Departamento:</label>
+            <label for="Province" class="half-width">Provincia:</label>
+            <InputText id="Departament" @bind-Value="model.Departament" class="half-width" />
+            <InputText id="Province" @bind-Value="model.Province" class="half-width" />
+        </div>
+
+        <div class="form-group">
+            <label for="PostalCode">Código Postal:</label>
+            <InputText id="PostaCode" @bind-Value="model.PostalCode" />
+        </div>
+
+        <button type="submit" class="btn-primary">Guardar</button>
+
+        @if (!string.IsNullOrEmpty(model.InformationMessage))
+        {
+            <div class="alert alert-success">@model.InformationMessage</div> <!-- Mensaje de éxito -->
+        }
+    </div>
+
+
+</EditForm>
+
+
+    <style>
+
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 0;
+    }
+
+    .alert {
+        color: green;
+        text-align: center;
+        margin-bottom: 20px;
+        font-size: 18px;
+    }
+
+    .container {
+        width: 50%;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin-top: 50px;
+    }
+
+    h2 {
+        color: #333;
+        font-size: 24px;
+        text-align: center;
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+
+    .small-title {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+            font-size: 16px;
+            width: 100%;
+        }
+
+        .form-group input, .form-group select {
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        .form-group.half-width {
+            width: calc(50 % -10px);
+            margin-right: 10px;
+        }
+
+            .form-group.half-width:last-child {
+                margin-right: 0;
+            }
+
+    .btn-primary {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 16px;
+        display: block;
+        margin: 20px auto 0;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+    </style>
+

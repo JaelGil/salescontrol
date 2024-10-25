@@ -1,14 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jaelg\\OneDrive\\Escritorio\\programacion2\\SalesControl\\",
+  "WorkspaceRootPath": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jaelg\\OneDrive\\Escritorio\\programacion2\\SalesControl\\WinFormsApp1\\Mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp1\\Mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SalesControl/True/SqlTable/dbo.clients.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\jaelg\\onedrive\\escritorio\\programacion2\\salescontrol\\winformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:winformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5A55A185-4315-42CA-938B-0CE710F502D1}|SalesControl.CreateClientRegistry\\SalesControl.CreateClientRegistry.csproj|c:\\users\\yo\\desktop\\programacion2\\salescontrol\\salescontrol.createclientregistry\\repository\\createclientregistrycommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A55A185-4315-42CA-938B-0CE710F502D1}|SalesControl.CreateClientRegistry\\SalesControl.CreateClientRegistry.csproj|solutionrelative:salescontrol.createclientregistry\\repository\\createclientregistrycommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57833B70-E80C-4760-93C2-4954816ADC74}|SalesControl.DataContext.EntityFrameworkCore\\SalesControl.DataContext.EntityFrameworkCore.csproj|c:\\users\\yo\\desktop\\programacion2\\salescontrol\\salescontrol.datacontext.entityframeworkcore\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57833B70-E80C-4760-93C2-4954816ADC74}|SalesControl.DataContext.EntityFrameworkCore\\SalesControl.DataContext.EntityFrameworkCore.csproj|solutionrelative:salescontrol.datacontext.entityframeworkcore\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0CB2E2-85E1-4915-85D4-C2A904B002BE}|SalesControl.WindowsForms\\SalesControl.WindowsForms.csproj|c:\\users\\yo\\desktop\\programacion2\\salescontrol\\salescontrol.windowsforms\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C0CB2E2-85E1-4915-85D4-C2A904B002BE}|SalesControl.WindowsForms\\SalesControl.WindowsForms.csproj|solutionrelative:salescontrol.windowsforms\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0CB2E2-85E1-4915-85D4-C2A904B002BE}|SalesControl.WindowsForms\\SalesControl.WindowsForms.csproj|c:\\users\\yo\\desktop\\programacion2\\salescontrol\\salescontrol.windowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0CB2E2-85E1-4915-85D4-C2A904B002BE}|SalesControl.WindowsForms\\SalesControl.WindowsForms.csproj|solutionrelative:salescontrol.windowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C57ABD-2B7A-4D71-8AAF-F6B3E6004D7F}|SalesControl.Backend.IoC\\SalesControl.Backend.IoC.csproj|c:\\users\\yo\\desktop\\programacion2\\salescontrol\\salescontrol.backend.ioc\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C57ABD-2B7A-4D71-8AAF-F6B3E6004D7F}|SalesControl.Backend.IoC\\SalesControl.Backend.IoC.csproj|solutionrelative:salescontrol.backend.ioc\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +33,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Mainform.cs",
-              "DocumentMoniker": "C:\\Users\\jaelg\\OneDrive\\Escritorio\\programacion2\\SalesControl\\WinFormsApp1\\Mainform.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Mainform.cs",
-              "ToolTip": "C:\\Users\\jaelg\\OneDrive\\Escritorio\\programacion2\\SalesControl\\WinFormsApp1\\Mainform.cs",
-              "RelativeToolTip": "WinFormsApp1\\Mainform.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:54:09.019Z"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -49,14 +53,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Mainform.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\jaelg\\OneDrive\\Escritorio\\programacion2\\SalesControl\\WinFormsApp1\\Mainform.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Mainform.cs",
-              "ToolTip": "C:\\Users\\jaelg\\OneDrive\\Escritorio\\programacion2\\SalesControl\\WinFormsApp1\\Mainform.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WinFormsApp1\\Mainform.cs [Dise\u00F1o]",
+              "DocumentIndex": 0,
+              "Title": "dbo.clients [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SalesControl/True/SqlTable/dbo.clients.sql",
+              "ToolTip": "dbo.clients [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-25T02:13:48.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.DataContext.EntityFrameworkCore\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "SalesControl.DataContext.EntityFrameworkCore\\DependencyContainer.cs",
+              "ToolTip": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.DataContext.EntityFrameworkCore\\DependencyContainer.cs",
+              "RelativeToolTip": "SalesControl.DataContext.EntityFrameworkCore\\DependencyContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:35:32.168Z"
+              "WhenOpened": "2024-10-25T01:53:26.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateClientRegistryCommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.CreateClientRegistry\\Repository\\CreateClientRegistryCommandRepository.cs",
+              "RelativeDocumentMoniker": "SalesControl.CreateClientRegistry\\Repository\\CreateClientRegistryCommandRepository.cs",
+              "ToolTip": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.CreateClientRegistry\\Repository\\CreateClientRegistryCommandRepository.cs",
+              "RelativeToolTip": "SalesControl.CreateClientRegistry\\Repository\\CreateClientRegistryCommandRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:46:17.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.WindowsForms\\Program.cs",
+              "RelativeDocumentMoniker": "SalesControl.WindowsForms\\Program.cs",
+              "ToolTip": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.WindowsForms\\Program.cs",
+              "RelativeToolTip": "SalesControl.WindowsForms\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAnwDEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:39:00.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.Backend.IoC\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "SalesControl.Backend.IoC\\DependencyContainer.cs",
+              "ToolTip": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.Backend.IoC\\DependencyContainer.cs",
+              "RelativeToolTip": "SalesControl.Backend.IoC\\DependencyContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:38:47.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsetting.json",
+              "DocumentMoniker": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.WindowsForms\\appsetting.json",
+              "RelativeDocumentMoniker": "SalesControl.WindowsForms\\appsetting.json",
+              "ToolTip": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.WindowsForms\\appsetting.json",
+              "RelativeToolTip": "SalesControl.WindowsForms\\appsetting.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T01:32:00.261Z",
+              "EditorCaption": ""
             }
           ]
         }

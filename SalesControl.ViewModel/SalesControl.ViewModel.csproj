@@ -12,7 +12,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="8.0.3" />
+	<PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.10" />
+	<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.10" />
+	<PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="8.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebView.WindowsForms" Version="8.0.91" />
+    <PackageReference Include="Microsoft.AspNetCore.Routing" Version="2.2.2" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.2" />
   </ItemGroup>
 
   <ItemGroup>
@@ -21,11 +27,16 @@
     <ProjectReference Include="..\SalesControl.CreateClientRegistry\SalesControl.CreateClientRegistry.csproj" />
     <ProjectReference Include="..\SalesControl.DataContext.EntityFrameworkCore\SalesControl.DataContext.EntityFrameworkCore.csproj" />
     <ProjectReference Include="..\SalesControl.Entities\SalesControl.Entities.csproj" />
-    <ProjectReference Include="..\SalesControl.View\SalesControl.View.csproj" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Component\RegistryClients.razor">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>

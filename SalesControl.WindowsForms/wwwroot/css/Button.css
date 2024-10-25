@@ -1,0 +1,12 @@
+﻿.button {
+    background-color: #3498db; /* Color del botón */
+    color: white; /* Color del texto */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: transform 0.2s; /* Suavizado para el efecto de hover */
+}
+
+    .button:hover {
+        transform: scale(1.1); /* Aumentar tamaño en hover */
+    }

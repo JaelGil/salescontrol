@@ -1,0 +1,26 @@
+@using Microsoft.AspNetCore.Components.Web
+@using SalesControl.ViewModel.Exceptions
+
+@inherits LayoutComponentBase
+
+<div class="main-layout">
+    <div class="content">
+        <ErrorBoundary @ref="errorBoundaryRef">
+            <ChildContent>
+                @Body
+            </ChildContent>
+            <ErrorContent>
+                 <p>Ocurrió un error inesperado:</p>
+                 <ExceptionDisplay Exception="context"/>
+                 <button class="btn btn-danger"
+                     @onclick="Recover">
+                     OK
+                 </button>
+            </ErrorContent>
+        </ErrorBoundary>
+    </div>
+</div>
+@((RenderFragment)(builder => base.BuildRenderTree(builder)))
+
+               
+               

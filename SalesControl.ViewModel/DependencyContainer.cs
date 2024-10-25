@@ -8,12 +8,12 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace SalesControl.ViewModel;
-
 public static class DependencyContainer
 {
-    public static IServiceCollection AddPresentersService(this IServiceCollection services)
+    public static IServiceCollection AddModelService(this IServiceCollection services)
     {
         services.AddTransient<AddClientViewModel>();
+        
         return services;
     }
 }

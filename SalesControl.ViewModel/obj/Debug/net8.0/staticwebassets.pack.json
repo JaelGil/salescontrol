@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.ViewModel\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SalesControl.ViewModel.styles.css",
+      "PackagePath": "staticwebassets\\SalesControl.ViewModel.styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SalesControl.ViewModel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SalesControl.ViewModel.props",
+      "PackagePath": "build\\SalesControl.ViewModel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SalesControl.ViewModel.props",
+      "PackagePath": "buildMultiTargeting\\SalesControl.ViewModel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SalesControl.ViewModel.props",
+      "PackagePath": "buildTransitive\\SalesControl.ViewModel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

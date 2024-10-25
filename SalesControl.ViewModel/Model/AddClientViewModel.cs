@@ -28,14 +28,9 @@ namespace SalesControl.ViewModel.Model
         public string Departament { get; set; }
         public string Province { get; set; }
         public string PostalCode { get; set; }
-        public string InformationMessage { get; set; }
+        public string InformationMessage { get; set; }  
 
-        public async Task Send()
-        {
-            var response = (CreateClientRegistryDto)this;
-            await _gateway.AddClient(response);
-
-        }
+       
 
         public static explicit operator CreateClientRegistryDto(AddClientViewModel client)
         { //recibe un viewmodel y devuelve dto
@@ -58,10 +53,22 @@ namespace SalesControl.ViewModel.Model
         }
         public async Task Save()
         {
-            await _gateway.AddClient((CreateClientRegistryDto)this);
+            try
+            {
+                Console.WriteLine("Iniciando el guardado del cliente...");
+                var response = (CreateClientRegistryDto)this;
+                await _gateway.AddClient(response);
+                InformationMessage = "El cliente se guardó con éxito :)";
+            }
+            catch (Exception ex)
+            {
+                // Registrar el error para diagnóstico
+                Console.WriteLine($"Error al guardar el cliente: {ex.Message}");
+                InformationMessage = "Ocurrió un error al guardar el cliente: " + ex.Message;
+            }
         }
-        
     }
 }
+
 //primero @page = "ruta paara llegar pag", cuando es para editar lleva un form que empieza con editform
-//luego hay una sentencia que dice a que metodo va a invocar elmodelo cuando preciono envir
+//luego hay una sentencia que dice a que metodo va a invocar elmodelo cuando preciono enviar.

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "HIDtZ5x40aOYojwx7XtOTPI4hDxrDkrMw/O1THx8YuU=",
+  "Source": "SalesControl.ViewModel",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SalesControl.ViewModel\\wwwroot",
+      "Source": "SalesControl.ViewModel",
+      "ContentRoot": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.ViewModel\\wwwroot\\",
+      "BasePath": "/",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.ViewModel\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SalesControl.ViewModel.styles.css",
+      "SourceId": "SalesControl.ViewModel",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.ViewModel\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "SalesControl.ViewModel.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.ViewModel\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SalesControl.ViewModel.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.ViewModel\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SalesControl.ViewModel.bundle.scp.css",
+      "SourceId": "SalesControl.ViewModel",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.ViewModel\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "/",
+      "RelativePath": "SalesControl.ViewModel.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.ViewModel\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SalesControl.ViewModel.bundle.scp.css"
+    }
+  ]
+}

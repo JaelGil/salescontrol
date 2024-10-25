@@ -1,0 +1,6 @@
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.View\obj\Debug\net8.0-windows\SalesControl.View.csproj.AssemblyReference.cache
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.View\obj\Debug\net8.0-windows\SalesControl.View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.View\obj\Debug\net8.0-windows\SalesControl.View.AssemblyInfoInputs.cache
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.View\obj\Debug\net8.0-windows\SalesControl.View.AssemblyInfo.cs
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.View\obj\Debug\net8.0-windows\SalesControl.View.csproj.CoreCompileInputs.cache
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.View\obj\Debug\net8.0-windows\SalesControl.View.sourcelink.json

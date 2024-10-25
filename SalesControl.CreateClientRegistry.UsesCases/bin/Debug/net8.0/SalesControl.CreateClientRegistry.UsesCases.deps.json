@@ -28,12 +28,18 @@
           "SalesControl.Entities": "1.0.0"
         },
         "runtime": {
-          "SalesControl.CreateClientRegistry.BusinessObject.dll": {}
+          "SalesControl.CreateClientRegistry.BusinessObject.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "SalesControl.Entities/1.0.0": {
         "runtime": {
-          "SalesControl.Entities.dll": {}
+          "SalesControl.Entities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

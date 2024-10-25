@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VbNJGco8pK8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.ValidationServices.FluentValidation\\SalesControl.ValidationServices.FluentValidation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YO\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
+    "C:\\Users\\YO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

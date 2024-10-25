@@ -16,7 +16,7 @@ namespace SalesControl.DataContext.EntityFrameworkCore.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.8")
+                .HasAnnotation("ProductVersion", "8.0.10")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -63,7 +63,7 @@ namespace SalesControl.DataContext.EntityFrameworkCore.Migrations
                     b.ToTable("clients");
                 });
 
-            modelBuilder.Entity("SalesControl.DataContext.EntityFrameworkCore.PocoEntities.PocoAddress", b =>
+            modelBuilder.Entity("SalesControl.CreateClientRegistry.Entity.Address", b =>
                 {
                     b.Property<int>("IdAddress")
                         .ValueGeneratedOnAdd()
@@ -104,14 +104,14 @@ namespace SalesControl.DataContext.EntityFrameworkCore.Migrations
                     b.HasIndex("IdClient")
                         .IsUnique();
 
-                    b.ToTable("pocoAddresses");
+                    b.ToTable("addresses");
                 });
 
-            modelBuilder.Entity("SalesControl.DataContext.EntityFrameworkCore.PocoEntities.PocoAddress", b =>
+            modelBuilder.Entity("SalesControl.CreateClientRegistry.Entity.Address", b =>
                 {
                     b.HasOne("SalesControl.CreateClientRegistry.BusinessObject.PocoEntities.Client", null)
                         .WithOne()
-                        .HasForeignKey("SalesControl.DataContext.EntityFrameworkCore.PocoEntities.PocoAddress", "IdClient")
+                        .HasForeignKey("SalesControl.CreateClientRegistry.Entity.Address", "IdClient")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });

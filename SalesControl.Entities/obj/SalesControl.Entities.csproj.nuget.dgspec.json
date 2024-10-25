@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaelg\\OneDrive\\Escritorio\\programacion2\\SalesControl\\SalesControl.Entities\\SalesControl.Entities.csproj": {}
+    "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.Entities\\SalesControl.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaelg\\OneDrive\\Escritorio\\programacion2\\SalesControl\\SalesControl.Entities\\SalesControl.Entities.csproj": {
+    "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.Entities\\SalesControl.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaelg\\OneDrive\\Escritorio\\programacion2\\SalesControl\\SalesControl.Entities\\SalesControl.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.Entities\\SalesControl.Entities.csproj",
         "projectName": "SalesControl.Entities",
-        "projectPath": "C:\\Users\\jaelg\\OneDrive\\Escritorio\\programacion2\\SalesControl\\SalesControl.Entities\\SalesControl.Entities.csproj",
-        "packagesPath": "C:\\Users\\jaelg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaelg\\OneDrive\\Escritorio\\programacion2\\SalesControl\\SalesControl.Entities\\obj\\",
+        "projectPath": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.Entities\\SalesControl.Entities.csproj",
+        "packagesPath": "C:\\Users\\YO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jaelg\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\YO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

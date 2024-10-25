@@ -13,15 +13,16 @@ namespace SalesControl.CreateClientRegistry.UsesCases;
 
 public class CreateClientRegistryInteractor(ICreateClientRegistryOutputPort presenter, IClientRepository repository) : ICreateClientRegistryInputPort
 {
-    public async Task Handle(Entities.CreateClientRegistry.DTOs.CreateClientRegistryDto createClientRegistry)
+    public async Task Handle(CreateClientRegistryDto createClientRegistry)
     {
         var cliente = ToEntity(createClientRegistry);
         await repository.RegistryClient(cliente);
         await repository.SaveChanges();
         await presenter.Handle(cliente);
+        
 
     }
-    private static AddressAggregate ToEntity(Entities.CreateClientRegistry.DTOs.CreateClientRegistryDto clientDto) 
+    private static AddressAggregate ToEntity(CreateClientRegistryDto clientDto) 
     {
         return new AddressAggregate
         {

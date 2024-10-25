@@ -16,6 +16,7 @@ namespace SalesControl.CreateClientRegistry.Repository
         public async Task RegistryClient(AddressAggregate client)
         {
             await context.SaveClientAsync(client);
+            await context.SaveChangesAsync();
             await context.SaveAddressAsync(new Address
             {
                 Street = client.Street,
@@ -23,10 +24,9 @@ namespace SalesControl.CreateClientRegistry.Repository
                 Departament = client.Departament,
                 Province = client.Province,
                 PostalCode = client.PostalCode,
-                ClientId = client.IdClient
+                IdClient = client.IdClient
             });
         }
-
         public async Task SaveChanges()
         {
             await context.SaveChangesAsync();

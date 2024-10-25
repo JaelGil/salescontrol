@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SalesControl.CreateClientRegistry.UsesCases\SalesControl.CreateClientRegistry.UsesCases.csproj" />
+    <ProjectReference Include="..\SalesControl.CreateClientRegistry\SalesControl.CreateClientRegistry.csproj" />
+    <ProjectReference Include="..\SalesControl.DataContext.EntityFrameworkCore\SalesControl.DataContext.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\SalesControl.ValidationServices.FluentValidation\SalesControl.ValidationServices.FluentValidation.csproj" />
+    <ProjectReference Include="..\SalesControl.Validators.Entities\SalesControl.Validators.Entities.csproj" />
+    <ProjectReference Include="..\SalesControl.ViewModel\SalesControl.ViewModel.csproj" />
+  </ItemGroup>
+
+</Project>

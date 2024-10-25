@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "Hash": "RAbKOMlTDfHFe9c7YXcyCaj8qsfOz+wXAwNmxVO6R2s=",
+  "Source": "SalesControl.View",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.ViewModel\\SalesControl.ViewModel.csproj",
+      "Version": 2,
+      "Source": "SalesControl.ViewModel",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SalesControl.ViewModel\\wwwroot",
+      "Source": "SalesControl.ViewModel",
+      "ContentRoot": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.ViewModel\\wwwroot\\",
+      "BasePath": "/",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.ViewModel\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SalesControl.ViewModel.styles.css",
+      "SourceId": "SalesControl.ViewModel",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.ViewModel\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "SalesControl.ViewModel.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.ViewModel\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SalesControl.ViewModel.styles.css"
+    }
+  ]
+}

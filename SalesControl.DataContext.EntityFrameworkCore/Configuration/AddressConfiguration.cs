@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using SalesControl.CreateClientRegistry.BusinessObject.Aggregate;
 using SalesControl.CreateClientRegistry.BusinessObject.PocoEntities;
-using SalesControl.DataContext.EntityFrameworkCore.PocoEntities;
+using SalesControl.CreateClientRegistry.Entity;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,9 +11,9 @@ using System.Threading.Tasks;
 
 namespace SalesControl.DataContext.EntityFrameworkCore.Configuration
 {
-    internal class AddressConfiguration : IEntityTypeConfiguration<PocoAddress>
+    internal class AddressConfiguration : IEntityTypeConfiguration<Address>
     {
-        public void Configure(EntityTypeBuilder<PocoAddress> builder)
+        public void Configure(EntityTypeBuilder<Address> builder)
         {
             builder.HasKey(a => a.IdAddress);
             builder.Property(a => a.IdClient)
@@ -34,7 +34,7 @@ namespace SalesControl.DataContext.EntityFrameworkCore.Configuration
 
             builder.HasOne<Client>()
                 .WithOne()
-                .HasForeignKey<PocoAddress>(a => a.IdClient);
+                .HasForeignKey<Address>(a => a.IdClient);
         }
     }
 }

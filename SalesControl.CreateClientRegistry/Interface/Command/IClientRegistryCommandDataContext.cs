@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace SalesControl.CreateClientRegistry.Interface.Command
 {
-    internal interface IClientRegistryCommandDataContext
+    public interface IClientRegistryCommandDataContext
     {
         Task SaveClientAsync(Client client);
         Task SaveAddressAsync(Address address);

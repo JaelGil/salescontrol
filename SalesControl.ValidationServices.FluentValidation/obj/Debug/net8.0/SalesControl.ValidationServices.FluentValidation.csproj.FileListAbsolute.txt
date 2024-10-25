@@ -1,0 +1,16 @@
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.ValidationServices.FluentValidation\obj\Debug\net8.0\SalesControl.ValidationServices.FluentValidation.csproj.AssemblyReference.cache
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.ValidationServices.FluentValidation\obj\Debug\net8.0\SalesControl.ValidationServices.FluentValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.ValidationServices.FluentValidation\obj\Debug\net8.0\SalesControl.ValidationServices.FluentValidation.AssemblyInfoInputs.cache
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.ValidationServices.FluentValidation\obj\Debug\net8.0\SalesControl.ValidationServices.FluentValidation.AssemblyInfo.cs
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.ValidationServices.FluentValidation\obj\Debug\net8.0\SalesControl.ValidationServices.FluentValidation.csproj.CoreCompileInputs.cache
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.ValidationServices.FluentValidation\obj\Debug\net8.0\SalesControl.ValidationServices.FluentValidation.sourcelink.json
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.ValidationServices.FluentValidation\bin\Debug\net8.0\SalesControl.ValidationServices.FluentValidation.deps.json
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.ValidationServices.FluentValidation\bin\Debug\net8.0\SalesControl.ValidationServices.FluentValidation.dll
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.ValidationServices.FluentValidation\bin\Debug\net8.0\SalesControl.ValidationServices.FluentValidation.pdb
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.ValidationServices.FluentValidation\bin\Debug\net8.0\SalesControl.Validation.Entities.dll
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.ValidationServices.FluentValidation\bin\Debug\net8.0\SalesControl.Validation.Entities.pdb
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.ValidationServices.FluentValidation\obj\Debug\net8.0\SalesCon.BEDF0A5E.Up2Date
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.ValidationServices.FluentValidation\obj\Debug\net8.0\SalesControl.ValidationServices.FluentValidation.dll
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.ValidationServices.FluentValidation\obj\Debug\net8.0\refint\SalesControl.ValidationServices.FluentValidation.dll
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.ValidationServices.FluentValidation\obj\Debug\net8.0\SalesControl.ValidationServices.FluentValidation.pdb
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.ValidationServices.FluentValidation\obj\Debug\net8.0\ref\SalesControl.ValidationServices.FluentValidation.dll

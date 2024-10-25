@@ -14,7 +14,7 @@ namespace SalesControl.Entities.CreateClientRegistry.DTOs
         public string District { get;} = district;
         public string Departament { get;} = departament;
         public string Province { get;} = province;
-        public string PostalCode { get;} = postalCode;
-        
+        public string PostalCode { get;} = postalCode;  
     }
 }
+//Transporta los datos internamente

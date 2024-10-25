@@ -10,7 +10,7 @@ namespace SalesControl.CreateClientRegistry.UsesCases;
 
 public static class DependencyContainer
 {
-    public static IServiceCollection AddPresentersService(this IServiceCollection services)
+    public static IServiceCollection AddUseCasesServices(this IServiceCollection services)
     {
         services.AddTransient<ICreateClientRegistryInputPort, CreateClientRegistryInteractor>();
         return services;

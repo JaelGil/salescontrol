@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DGMCet007xg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YO\\Desktop\\programacion2\\SalesControl\\SalesControl.Validators.Entities\\SalesControl.Validators.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

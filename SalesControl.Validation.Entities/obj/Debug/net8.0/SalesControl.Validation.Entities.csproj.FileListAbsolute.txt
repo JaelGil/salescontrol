@@ -1,0 +1,13 @@
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.Validation.Entities\bin\Debug\net8.0\SalesControl.Validation.Entities.deps.json
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.Validation.Entities\bin\Debug\net8.0\SalesControl.Validation.Entities.dll
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.Validation.Entities\bin\Debug\net8.0\SalesControl.Validation.Entities.pdb
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.Validation.Entities\obj\Debug\net8.0\SalesControl.Validation.Entities.csproj.AssemblyReference.cache
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.Validation.Entities\obj\Debug\net8.0\SalesControl.Validation.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.Validation.Entities\obj\Debug\net8.0\SalesControl.Validation.Entities.AssemblyInfoInputs.cache
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.Validation.Entities\obj\Debug\net8.0\SalesControl.Validation.Entities.AssemblyInfo.cs
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.Validation.Entities\obj\Debug\net8.0\SalesControl.Validation.Entities.csproj.CoreCompileInputs.cache
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.Validation.Entities\obj\Debug\net8.0\SalesControl.Validation.Entities.sourcelink.json
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.Validation.Entities\obj\Debug\net8.0\SalesControl.Validation.Entities.dll
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.Validation.Entities\obj\Debug\net8.0\refint\SalesControl.Validation.Entities.dll
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.Validation.Entities\obj\Debug\net8.0\SalesControl.Validation.Entities.pdb
+C:\Users\YO\Desktop\programacion2\SalesControl\SalesControl.Validation.Entities\obj\Debug\net8.0\ref\SalesControl.Validation.Entities.dll
